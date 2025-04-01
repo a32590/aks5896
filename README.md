@@ -1,47 +1,80 @@
-# aks5896
+Hollywood Movies
+🚢💔❄️ – Titanic
 
-Global Blockbusters
-Titanic: 🚢💔❄️
+🦁👑 – The Lion King
 
-Spider-Man: 🕷️👦🌃
+🕷️👦🌃 – Spider-Man
 
-The Lion King: 🦁👑
+👓⚡🪄 – Harry Potter Series
 
-Harry Potter: 🧙‍♂️⚡🦉
+🧙‍♂️⚔️💍 – The Lord of the Rings
 
-Frozen: ❄️👸⛄
+🌌🚀👽🔫 – Guardians of the Galaxy
 
-The Matrix: 🤖🕶️🔫
+🏃‍♂️🌲🌳🏃‍♂️ – Forrest Gump
 
-Jurassic Park: 🦖🌴🚗
+🧑‍🚀🌌🕰️ – Interstellar
 
-Finding Nemo: 🐟🔍
+🎩🐰🕳️ – Alice in Wonderland
 
-The Hunger Games: 🏹👧🍞
+🦇🌆🃏 – The Dark Knight
 
-Avatar: 🌌👽🛸
+🐀👨🍳🍝 – Ratatouille
 
-Indian Movies
-Chhaava (2025): ⚔️👑🇮🇳 (Story of Chhatrapati Sambhaji).
+🤖🚗 – Transformers
 
-Superboys of Malegaon: 🎥👨‍👩‍👧‍👦🎬 (Filmmaking in Malegaon).
+👩🔄👩 – Freaky Friday
 
-The Diplomat: 🕴️🌍🔍 (Espionage and diplomacy).
+🐢🍕🥋 – Teenage Mutant Ninja Turtles
 
-Dragon (2025): 🔥🐉💰 (Financial fraud and deception).
+🌎👽🛸 – Independence Day
 
-Sky Force: ✈️🇮🇳🔥 (Air force action drama).
+🚗⏰👴👦 – Back to the Future
 
-Regional References
-L2: Empuraan (Malayalam): 🌍🔪🕵️‍♂️ (Global crime syndicate).
+🧛‍♂️💔🌕 – Twilight
 
-Thandel (Telugu): 🌊🧜‍♂️⚔️ (Action drama about a fisherman).
+🔪👩🚿 – Psycho
 
-Tips for the Game
-Use emojis that are simple yet descriptive of the movie's plot or theme.
+🩸💎 – Blood Diamond
 
-Include a mix of Bollywood, Hollywood, and regional films to make it engaging for everyone.
+🐺🗽💰 – The Wolf of Wall Street
 
-Provide hints if participants struggle with decoding the emojis.
+Bollywood Movies
+🌾🚂❤️🎻 – Dilwale Dulhania Le Jayenge (DDLJ)
 
-This activity is sure to add fun and excitement to your office environment!
+🎓🎶❤️📚 – Mohabbatein
+
+✈️🌍❤️📧 – Dear Zindagi
+
+🚘🎉🏖️❤️ – Zindagi Na Milegi Dobara (ZNMD)
+
+🎭🎓💔🎻 – Kabhi Alvida Naa Kehna (KANK)
+
+💃🎥❤️🧑‍⚖️ – Humpty Sharma Ki Dulhania
+
+🎥🎬✨🤝 – Om Shanti Om
+
+🎭🎤❤️📜 – Veer-Zaara
+
+👨‍✈️🇮🇳🔥✈️ – Ek Tha Tiger
+
+🎤🎸❤️🏫 – Rockstar
+
+Regional/Local References
+⚔️👑🇮🇳 – Tanhaji: The Unsung Warrior (Marathi/Hindi)
+
+🌊🧜‍♂️⚔️ – (Adipurush) (Hindi/Telugu)
+
+Animated/Family-Friendly
+🔍🐠 – Finding Nemo
+
+🎈👴🏠 – Up
+
+🐻🐾❄️❄️ – Frozen 2
+
+🏊🦈 – Jaws
+
+Classic/Thriller
+👻🚫– Ghostbusters
+
+📞💀🔪– Scream
